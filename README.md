@@ -5,17 +5,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00b4d8&center=true&vCenter=true&width=435&lines=Software+Development+Intern;Next.js+%2B+Laravel+Expert;ML+%2B+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00b4d8&center=true&vCenter=true&width=435&lines=Software+Development;Next.js+%2B+Laravel+Expert;ML+%2B+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a **Software Development Intern** specialized in building modern, scalable web applications. My expertise spans from traditional backend systems like **Laravel** to modern, reactive stacks using **Next.js** and **Vue**. I am also deeply interested in **Machine Learning** and the integration of **LLMs** into production workflows.
+I am a **Software Developer** specialized in building modern, scalable web applications. My expertise spans from traditional backend systems like **Laravel** to modern, reactive stacks using **Next.js** and **Vue**. I am also deeply interested in **Machine Learning** and the integration of **LLMs** into production workflows.
 
 - 🔭 **Current Project:** Architecting a Dormitory Monitoring & Attendance System.
-- 🎓 **Education:** Software Development student currently in an internship.
+- 🎓 **Education:** Software Development specialized in Machine Learning and Web Development.
 - 🚀 **Focus:** Bridging the gap between robust software engineering and AI capabilities.
 
 ---
