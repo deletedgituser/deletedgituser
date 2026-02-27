@@ -5,18 +5,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00b4d8&center=true&vCenter=true&width=435&lines=Software+Development;Next.js+%2B+Laravel+Expert;ML+%2B+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00b4d8&center=true&vCenter=true&width=435&lines=Software+Development;Next.js+%2B+Laravel+Expert;ML+%2B+AI+Enthusiast;Cybersecurity+Researcher" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a **Software Developer** specialized in building modern, scalable web applications. My expertise spans from traditional backend systems like **Laravel** to modern, reactive stacks using **Next.js** and **Vue**. I am also deeply interested in **Machine Learning** and the integration of **LLMs** into production workflows.
+I am a **Software Developer** specialized in building modern, scalable web applications. My expertise spans from traditional backend systems like **Laravel** to modern, reactive stacks using **Next.js** and **Vue**. I am also deeply interested in **Machine Learning**, the integration of **LLMs**, and **Cybersecurity** to ensure robust and secure production workflows.
 
 - 🔭 **Current Project:** Architecting a Dormitory Monitoring & Attendance System.
-- 🎓 **Education:** Software Development specialized in Machine Learning and Web Development.
-- 🚀 **Focus:** Bridging the gap between robust software engineering and AI capabilities.
+- 🎓 **Education:** Software Development specialized in Machine Learning, Web Development, and Security.
+- 🚀 **Focus:** Bridging the gap between robust software engineering, AI capabilities, and Secure Coding practices.
 
 ---
 
@@ -28,13 +28,18 @@ I am a **Software Developer** specialized in building modern, scalable web appli
 #### ⚙️ Languages & Backend
 [![My Skills](https://skillicons.dev/icons?i=python,c,java,postgres,mysql,nodejs)](https://skillicons.dev)
 
-#### 🤖 AI & Development Tools
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman,windows)](https://skillicons.dev)
-> **Specialized in:** LLM Integration | Machine Learning Frameworks
+#### 🛡️ Cybersecurity & Development Tools
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,git,github,vscode,postman,windows)](https://skillicons.dev)
+> **Specialized in:** LLM Integration | Machine Learning Frameworks | Web Security & Penetration Testing
 
 ---
 
 ### 📊 GitHub Data
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deletedgituser&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deletedgituser&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=deletedgituser&theme=tokyonight&hide_border=true" />
