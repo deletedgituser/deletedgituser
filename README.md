@@ -37,12 +37,12 @@ I am a **Software Developer** specialized in building modern, scalable web appli
 ### 📊 GitHub Data
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=deletedgituser&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deletedgituser&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourGitHubUsername]&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deletedgituser&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
