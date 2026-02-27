@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Wendel Rey Salaum 👋
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=250&section=header&text=Full%20Stack%20Engineer&fontSize=70&animation=fadeIn&fontAlignY=35" />
