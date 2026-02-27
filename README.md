@@ -52,3 +52,7 @@ I am a **Software Developer** specialized in building modern, scalable web appli
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=100&section=footer" />
+</p>
